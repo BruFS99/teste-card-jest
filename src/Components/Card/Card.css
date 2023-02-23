@@ -1,0 +1,33 @@
+.card img {
+    width: 250px;
+    height: 210px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+  }
+  
+  h5 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .card-body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+  }
+  
+  .card-text-description {
+    color: rgb(41, 40, 40);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .card {
+    margin: 15px;
+    margin-bottom: 30px;
+    display: inline-flex;
+  }
